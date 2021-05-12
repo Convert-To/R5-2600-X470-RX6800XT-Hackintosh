@@ -6,4 +6,4 @@
 |RAM|16G|
 |网卡|Intel 1211|
 |声卡|ALC 1220|
-|系统|Big Sur 14 beta 1|
+|系统|Big Sur 11.4 beta 1|
